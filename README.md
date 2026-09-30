@@ -1,17 +1,20 @@
-<div align="center"><br>ZASTYNOV
+<div align="center">ZASTYNOV
 
 SOFTWARE · AUTOMATION · DIGITAL PRODUCTS
 
-<br>""GitHub" (https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=white)" (https://github.com/zastynov)
-""Telegram" (https://img.shields.io/badge/TELEGRAM-0A0A0A?style=flat-square&logo=telegram&logoColor=white)" (https://t.me/zastynov)
-
-<br><br>
+<br><a href="https://github.com/zastynov">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://t.me/zastynov">
+  <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" />
+</a><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="70%"/><br><br>
 
 «I build software, automation and digital tools.»
 
-<br></div>---
+</div>---
 
 "ABOUT"
 
@@ -22,9 +25,8 @@ Developer focused on building useful things.
 
 01   Telegram & automation
 02   Python / JavaScript
-03   Desktop applications
-04   UI / UX
-05   Developer tools
+03   UI / UX
+04   Developer tools
 
 ---
 
@@ -32,39 +34,21 @@ Developer focused on building useful things.
 
 <table>
 <tr>
-<td width="50%" valign="top">⭐ ZastynovStars
+<td width="50%" valign="top">🔎 Handlescope
 
-Telegram Stars automation.
+A project focused on working with and analyzing Telegram handles.
 
-Python · Telegram · API
+Python · Telegram · Automation
 
-<br>"AUTOMATION"
+<br>"PROJECT"
 
-</td><td width="50%" valign="top">🤖 Attendance
+</td><td width="50%" valign="top">🤖 ИТНР Bot
 
-Attendance management through Telegram.
+Telegram bot developed for ИТНР.
 
-Python · SQLite · Excel
+Python · Telegram · Automation
 
-<br>"PRODUCTIVITY"
-
-</td>
-</tr><tr>
-<td width="50%" valign="top">📅 Schedule
-
-Automated schedule processing.
-
-Python · Excel · Telegram
-
-<br>"AUTOMATION"
-
-</td><td width="50%" valign="top">🖥️ SiteForge
-
-Visual desktop website builder.
-
-JavaScript · Node.js · Electron
-
-<br>"DESKTOP"
+<br>"TELEGRAM BOT"
 
 </td>
 </tr>
@@ -72,7 +56,9 @@ JavaScript · Node.js · Electron
 
 "TECHNOLOGIES"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,sqlite,git,github,figma,electron&perline=10" /></div><br><div align="center">"PYTHON" · "JAVASCRIPT" · "NODE.JS" · "SQLITE" · "TELEGRAM" · "FIGMA"
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,sqlite,git,github,figma&perline=9" /><br><br>
+
+"PYTHON" · "JAVASCRIPT" · "NODE.JS" · "SQLITE" · "TELEGRAM"
 
 </div>---
 
@@ -86,6 +72,8 @@ JavaScript · Node.js · Electron
 
 "ideas → code → problems → solutions → shipped"
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:3B0764,100:000000" width="100%"/><sub>© 2026 Zastynov</sub>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:3B0764,100:000000" width="100%"/><sub>© 2026 Zastynov</sub>
 
 </div>
