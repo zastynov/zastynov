@@ -12,28 +12,24 @@
 
 👋 Немного обо мне
 
-Привет! Я Zastynov. Люблю разбираться в том, как всё устроено, и вместо долгих размышлений обычно просто пытаюсь собрать свою версию.
+Привет! Я Zastynov. Люблю разбираться в том, как всё устроено, и чаще всего просто беру идею и пытаюсь собрать её своими руками.
 
-Чаще всего занимаюсь Python, Telegram-ботами и автоматизацией. Иногда ухожу в JavaScript и Node.js, когда одного Python уже недостаточно.
+Основное направление — Python, Telegram-боты и автоматизация. Иногда использую JavaScript и Node.js, когда проект этого требует.
 
-Мне нравится делать небольшие проекты для реальных задач, экспериментировать с интерфейсами и постепенно доводить свои идеи до рабочего состояния.
+Больше всего нравится делать небольшие вещи, которые решают конкретные задачи, а потом постепенно улучшать их.
 
 ---
 
-<div align="center">🧰 Мой стек
+<div align="center">🧰 Tech Stack
 
-<br><img src="https://skillicons.dev/icons?i=python,js,nodejs,sqlite,git,github&perline=6"/><br><br>
+<br><img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+<img src="https://img.shields.io/badge/SQLite-FFFFFF?style=flat-square&logo=sqlite&logoColor=003B57">
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=181717"></div>---
 
-🐍 Python   ·  
-🟨 JavaScript   ·  
-🟢 Node.js   ·  
-🗄️ SQLite   ·  
-🔀 Git   ·  
-🐙 GitHub
-
-</div>---
-
-<div align="center">✦ Из того, что сделал
+<div align="center">✦ Проекты
 
 <table>
 <tr><td align="center" width="50%"><br>🔎
@@ -43,10 +39,8 @@ Handlescope
 Инструмент для работы с Telegram handles.
 
 <br><a href="https://github.com/zastynov/Handlescope">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=246080&labelColor=DDF4FF&color=79BFE8"/>
+<img src="https://img.shields.io/badge/View%20project-FFFFFF?style=flat-square&logo=github&logoColor=246080&labelColor=DDF4FF&color=79BFE8"/>
 </a><br><br>
-
-🐍 Python   ·   ✈️ Telegram
 
 </td><td align="center" width="50%"><br>🤖
 
@@ -54,9 +48,7 @@ Handlescope
 
 Telegram-бот для ИТНР, через который можно отправить заявку на покупку, продажу или поиск людей и компаний. К заявке можно добавить текст и фотографии, после чего она автоматически отправляется администратору.
 
-<br><img src="https://img.shields.io/badge/TELEGRAM-FFFFFF?style=for-the-badge&logo=telegram&logoColor=246080&labelColor=DDF4FF&color=79BFE8"/><br><br>
-
-🐍 Python   ·   ✈️ Telegram
+<br><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=flat-square&logo=telegram&logoColor=246080&labelColor=DDF4FF&color=79BFE8"/><br><br>
 
 </td></tr>
 </table></div>---
